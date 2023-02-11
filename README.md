@@ -32,4 +32,5 @@ It took less than two days for an older student to break our encryption method..
 ### Background
 
 The point was to use students, teachers of our school -> the triangle building:  
-<img src="extra/pokesiea11.PNG" width="400"> &ensp; <img src="extra/pokesiea4.jpg" width="420">
+  
+<img src="extra/pokesiea11.PNG" width="335"> &ensp; <img src="extra/pokesiea4.jpg" width="360">
