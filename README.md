@@ -34,6 +34,6 @@ The game is not super well optimized, not well balanced, but has a good life spa
 
 ### Background
 
-The point was to use students, teachers of our school -> the triangle building:  
+The point was to use students, teachers and references to our school -> the triangle building:  
   
 <img src="extra/pokesiea11.PNG" width="335"> &ensp; <img src="extra/pokesiea4.jpg" width="360">
