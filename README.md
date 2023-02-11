@@ -8,8 +8,8 @@ Only for Windows OS. Launch *pokesiea.exe* to play. The game is in French only.
 
 ### Commands
 
-Keyboard arrows to move.
-Space to interact. (talk, accept, ...).
+Keyboard arrows to move.  
+Space to interact. (talk, accept, ...).  
 Escape while in game to open the menu.
 
 ## Development
