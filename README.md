@@ -25,9 +25,10 @@ It took less than two days for an older student to break our encryption method..
 
 ## The game
 
-<img src="extra/pokesiea1.png" width="300"> &ensp; <img src="extra/pokesiea2.png" width="300"> &ensp; <img src="extra/pokesiea3.png" width="300">
-<img src="extra/pokesiea5.png" width="300"> &ensp; <img src="extra/pokesiea6.png" width="300"> &ensp; <img src="extra/pokesiea7.png" width="300"> 
-<img src="extra/pokesiea8.png" width="300"> &ensp; <img src="extra/pokesiea9.png" width="300"> &ensp; <img src="extra/pokesiea10.png" width="300">    
+<img src="extra/pokesiea1.png" width="350"> &ensp; <img src="extra/pokesiea2.png" width="350">  
+<img src="extra/pokesiea3.png" width="350"> &ensp; <img src="extra/pokesiea10.png" width="350"> 
+<img src="extra/pokesiea6.png" width="350"> &ensp; <img src="extra/pokesiea7.png" width="350">  
+<img src="extra/pokesiea8.png" width="350"> &ensp; <img src="extra/pokesiea9.png" width="350">      
 
 ### Background
 
