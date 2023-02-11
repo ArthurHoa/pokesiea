@@ -20,7 +20,7 @@ No engine, no Unity, nothing... We stupidly did it from scratch in C and coded e
 
 ### Cryptography
 
-We did not want to provide the pictures of students and teachers wearing a backpack and a cap. So we decided to encrypt the images using AES 128.    
+We did not want to provide the pictures of students and teachers wearing a backpack and a cap. So we decided to encrypt the images using Vernam Cypher.    
 It took less than two days for an older student to break our encryption method...
 
 ## The game
