@@ -25,6 +25,8 @@ It took less than two days for an older student to break our encryption method..
 
 ## The game
 
+The game is not super well optimized, not well balanced, but has a good life span.  
+  
 <img src="extra/pokesiea1.png" width="350"> &ensp; <img src="extra/pokesiea2.png" width="350">  
 <img src="extra/pokesiea3.png" width="350"> &ensp; <img src="extra/pokesiea10.png" width="350"> 
 <img src="extra/pokesiea6.png" width="350"> &ensp; <img src="extra/pokesiea9.png" width="350">  
